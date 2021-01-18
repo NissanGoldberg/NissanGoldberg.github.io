@@ -1,0 +1,11 @@
+- name: .Net Core 3.0
+  percentage: 80
+  color: info
+
+- name: Tensorflow
+  percentage: 75
+  color: success
+  
+- name: React
+  percentage: 70
+  color: 
